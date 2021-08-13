@@ -1,5 +1,5 @@
 {
-  "name": "better_discord_ranking_system",
+  "name": "POLAR-LEVEL",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,37 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tomato6966/better-discord-ranking-system.git"
+    "url": "git+https://github.com/Polar-Ceo"
   },
   "keywords": [
-    "tomato",
-    "ranking",
+    "PSC",
     "discord",
-    "discord-js",
-    "discord.js",
     "discord-api",
-    "discord-music-bot",
     "discord-bot",
     "discordbot",
     "leveling",
-    "rank",
     "level",
-    "nsfw",
-    "hentai-bot",
-    "hentai-sites",
-    "card",
-    "cards",
-    "music-bot",
-    "nodejs",
-    "npm",
-    "node-js",
-    "porn",
-    "multipurpose",
-    "gaming",
-    "utility"
+    "node-js"
   ],
-  "author": "Tomato#6966",
-  "license": "GNU",
+  "author": "PSC",
+  "license": "PSC",
   "dependencies": {
     "canvacord": "^5.2.1",
     "colors": "^1.4.0",
